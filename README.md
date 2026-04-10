@@ -1,4 +1,4 @@
-# The WORSTproject ever aka a project without CSS
+# The WORST project ever aka a project without CSS
 
 ## Why no CSS?
 to make everything feels minimal, as i am minimalist.
